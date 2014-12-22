@@ -6,7 +6,12 @@
     "name": "Babacar Gueye",
     "email": "gueyens11@gmail.com"
   },
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "express": "^4.10.6",
+    "express-xml-bodyparser": "0.0.4",
+    "jade": "^1.8.2"
+  },
   "devDependencies": {},
   "keywords": []
 }
